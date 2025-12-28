@@ -1,0 +1,4 @@
+Investigated a critical SOC alert involving Lumma Stealer distributed via click-fix phishing and DLL side-loading.
+Confirmed email delivery, identified malicious URLs, and analyzed user interaction with the content.
+Validated the alert as a true positive by following standard SOC playbook procedures
+Focused on identifying malware delivery techniques and assessing potential data leakage risk.
