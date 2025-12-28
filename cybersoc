@@ -1,0 +1,2 @@
+Analyzed HTTP request traffic to detect common web attack techniques including SQLi, XSS, command injection, IDOR, and LFI/RFI.
+Reviewed all request components (headers, parameters, and body) to determine malicious intent beyond URL-based indicators.
